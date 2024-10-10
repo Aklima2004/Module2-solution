@@ -53,7 +53,7 @@ h1 {
 
 .section1 .section-title {
     background-color: pink; 
-    color: white;
+    color: black;
 }
 
 .section2 .section-title {
@@ -63,7 +63,7 @@ h1 {
 
 .section3 .section-title {
     background-color: yellow; 
-    color: white;
+    color: black;
 }
 @media (min-width: 992px) {
     .section {
